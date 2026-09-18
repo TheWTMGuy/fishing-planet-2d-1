@@ -1,5 +1,4 @@
-import pygame
-import pygame
+import pygame  # type: ignore[import-not-found]
 import sys
 import random
 import asyncio
